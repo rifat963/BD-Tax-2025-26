@@ -97,12 +97,6 @@ pip install streamlit pandas
 
 ---
 
-## 📷 Screenshot
-
-*(Add a screenshot of your app here — e.g., two-column layout with explanation + calculator.)*
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! If you’d like to improve the UI, add features (like slab-by-slab breakdown), or extend support for future years, feel free to fork and contribute.
@@ -119,8 +113,6 @@ MIT License © 2025 Your Name
 
 Developed as an educational and practical tool for **Bangladeshi taxpayers** to understand and calculate their personal income tax obligations.
 
----
 
-Would you like me to also generate the **`requirements.txt` file content** so you can include it in your repo?
 ```
 **
